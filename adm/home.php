@@ -24,7 +24,7 @@ require_once('inc/classes.php');
         <div class="row">
                 <h1>
                     <i class="fas fa-home"></i>
-                    Home do ADM                
+                    Home do ADMs                
                 </h1>
         </div>
         <!-- /CONTEUDO -->
